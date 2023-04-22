@@ -1,5 +1,5 @@
 # Codespace-SQL
-### 1. Introduction to SQL ### (./Codespace-SQL/Introduction to SQL)
+### 1. Introduction to SQL (./Codespace-SQL/Introduction to SQL)
 ### 2. Querying Data AND Sorting Data ###
 ### 3. Filtering Data Part 01 ###
 ### 4. Filtering Data Part 02 ###
