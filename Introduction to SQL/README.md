@@ -1,4 +1,4 @@
-# 1. Introduction to SQL: [introductionToSQL.sql](/introductionToSQL.sql)
+# 1. Introduction to SQL: [introductionToSQL.sql](/Introduction to SQL/introductionToSQL.sql)
 Using the database called ‘medical’ apply the following sql commands, and obtain the below. Use of the SELECT statement with the WILDCARD (*) to nominate all the attributes in the table, and FROM statement SQL Select * From tblappointment; 
 * **Activity 1:** Complete the SQL and copy the SQL following by screenshots of the output.
 
