@@ -13,6 +13,6 @@ INNER JOIN countries c ON c.country_id = l.country_id;
 
 -- Joins – Exercise 3
 -- Create a query that will generate the following information, employee_id, first_name, last_name, dependent_id, first_name, last_name, relationship. This will draw information from the employees and dependents tables.
-SELECT e.employee_id, e.first_name, e.last_name, dependent_id, d.first_name, d.last_name
+SELECT e.employee_id, e.first_name, e.last_name, dependent_id, d.first_name, d.last_name, d.relationship
 FROM employees e
 INNER JOIN dependents d ON e.employee_id = d.employee_id;
