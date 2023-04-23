@@ -1,5 +1,4 @@
-# Codespace-SQL
-### 4. Filtering Data Part 02 ### 
+# 4. Filtering Data Part 02 ### 
 Using the database called ‘hr’.
 
 * **Activity 1:** Write the sql code that will determine anyone whose name begins with ‘P’ and whose salary is below 8000.
