@@ -26,6 +26,7 @@ FROM employees e
 INNER JOIN  dependents d ON e.employee_id = d.employee_id
 GROUP BY d.employee_id 
 HAVING COUNT(d.employee_id) = 2;
+-- No employees with two children from the dependents table
 
 -- Aggregate Functions – Exercise 5
 -- Determine the amount of salary per department. Give a breakdown using only the department_id’s in the output along with the salary amounts.
