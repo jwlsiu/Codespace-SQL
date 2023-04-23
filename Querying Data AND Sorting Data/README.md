@@ -1,4 +1,4 @@
-# 2. Querying Data AND Sorting Data ### 
+# 2. Querying Data AND Sorting Data 
 Using the database called ‘hr’.
 * **Activity 1:** Using locations select * attributes and display. Then use Select for three attributes including the primary key and display. Make sure to distinguish where the primary key is coming from in terms of the table name. e.g. tablename. attribute
 
