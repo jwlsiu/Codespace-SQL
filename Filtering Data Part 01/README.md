@@ -1,5 +1,4 @@
-# Codespace-SQL
-### 3. Filtering Data Part 01 ### 
+# 3. Filtering Data Part 01 ### 
 Using the database called ‘hr’.
 
 * **Activity 1:** Apply the distinct command to determine the individual department ids from the employees table. This should give a straight listing of only the departments id’s without duplication.
