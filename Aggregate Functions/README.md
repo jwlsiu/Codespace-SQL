@@ -1,5 +1,4 @@
-# Codespace-SQL
-### 6. Aggregate Functions ### 
+# 6. Aggregate Functions
 Using the database called ‘hr’.
 
 * **Activity 1:** Determine the number of employees in the Sales department. Also create a proper header that shows the information appropriately.
