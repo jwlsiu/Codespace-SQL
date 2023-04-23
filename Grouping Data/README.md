@@ -1,4 +1,4 @@
-# 7. Grouping Data ### 
+# 7. Grouping Data
 Using the database called ‘hr’.
 
 * **Activity 1:** Create a group by operation on job_id that will show the number of counts that each job_id corresponds to.
