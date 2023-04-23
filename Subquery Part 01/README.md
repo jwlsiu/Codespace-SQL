@@ -1,5 +1,4 @@
-# Codespace-SQL
-### 8. Subquery Part 01 ### 
+# 8. Subquery Part 01
 Using the database called ‘hr’.
 
 * **Activity 1:** Identify the person at the low end of the salary scale – using a subquery to identify the amount they receive. Then use this amount to work out their employee details.
