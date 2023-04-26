@@ -7,7 +7,7 @@ Using the database called ‘hr’.
 
 * **Activity 3:** Determine the number of employees each manager will manage from the employees table. [Code](</Aggregate Functions/Aggregate Functions.sql>) and [Results](</Aggregate Functions/Aggregate Functions - Activity 3.pdf>).
 
-* **Activity 4:** Determine who (if anyone) has two children from the dependents table. [Code](</Aggregate Functions/Aggregate Functions.sql>). No Results.
+* **Activity 4:** Determine who (if anyone) has two children from the dependents table. [Code](</Aggregate Functions/Aggregate Functions.sql>), no Results.
 
 * **Activity 5:** Determine the amount of salary per department. Give a breakdown using only the department_id’s in the output along with the salary amounts. [Code](</Aggregate Functions/Aggregate Functions.sql>) and [Results](</Aggregate Functions/Aggregate Functions - Activity 5.pdf>).
 
