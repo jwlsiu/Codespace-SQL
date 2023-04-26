@@ -1,7 +1,7 @@
 # 6. Aggregate Functions
 Using the database called ‘hr’.
 
-* **Activity 1:** Determine the number of employees in the Sales department. Also create a proper header that shows the information appropriately. [Code](</Aggregate Functions/Aggregate Functions.sql>) and [Results](</Aggregate Functions/Aggregate Functions - Activity 1.pdf>).
+* **Activity 1:** Determine the number of employees in the Sales department. Also create a proper header that shows the information appropriately. Click to show [code](</Aggregate Functions/Aggregate Functions.sql>) and [results](</Aggregate Functions/Aggregate Functions - Activity 1.pdf>).
 
 * **Activity 2:** Determine the number of employing working in each of the respective departments. [Code](</Aggregate Functions/Aggregate Functions.sql>) and [Results](</Aggregate Functions/Aggregate Functions - Activity 2.pdf>).
 
