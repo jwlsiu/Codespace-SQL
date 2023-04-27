@@ -1,5 +1,5 @@
 # 1. Introduction to SQL
-Using the database called ‘medical’ apply the following sql commands, and obtain the below. Use of the SELECT statement with the WILDCARD (*) to nominate all the attributes in the table, and FROM statement SQL Select * From tblappointment; 
+Using the database called [medical](</Databases/medical.sql>) apply the following sql commands, and obtain the below. Use of the SELECT statement with the WILDCARD (*) to nominate all the attributes in the table, and FROM statement SQL Select * From tblappointment; 
 * **Activity 1:** Complete the SQL and copy the SQL following by screenshots of the output.
 
 * **Activity 2:** Do the same as the above, this time using the other three tables provided, choose any three attributes and then display these in the output. Show the SQL code and screenshot the output (as usual).
