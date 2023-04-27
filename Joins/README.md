@@ -1,5 +1,5 @@
 # 5. Joins
-Using the database called '[hr](/Databases/hr.sql)'
+Using the database called '[hr](/Databases/hr.sql)'.
 
 * **Activity 1:** Create an sql that will display the following fields (attributes) – first name, last name, manager_id, department_id, location_id. Using an EQUI join display the data with an appropriate query.
 [Code](</Joins/Joins.sql>) and [Results](</Joins/Joins - Activity 1.pdf>)
