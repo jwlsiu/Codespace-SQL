@@ -19,7 +19,7 @@ Using the database called '[hr](/Databases/hr.sql)'
 * **Activity 6:** Display all the records for employees that are NOT in the following departments – they are not in 1, 4, 8, 10. So it will display all the others. Do this with a sort according to salary in descending order.
 [Code](</Filtering Data Part 02/Filtering Data Part 02.sql>) and [Results](</Filtering Data Part 02/Filtering Data Part 02 - Activity 6.pdf>)
 
-* **Activity 7:** Display the details of the employees that have an ‘s’ at the end of their first name. Sort using ascending sort according to first name
+* **Activity 7:** Display the details of the employees that have an ‘s’ at the end of their first name. Sort using ascending sort according to first name.
 [Code](</Filtering Data Part 02/Filtering Data Part 02.sql>) and [Results](</Filtering Data Part 02/Filtering Data Part 02 - Activity 7.pdf>)
 
 * **Activity 8:** Display the details of employees that have three letters unknown followed by a ‘g’  for their last name.
