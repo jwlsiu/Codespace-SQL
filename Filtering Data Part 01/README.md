@@ -1,5 +1,5 @@
 # 3. Filtering Data Part 01
-Using the database called '[hr](/Databases/hr.sql)'
+Using the database called '[hr](/Databases/hr.sql)'.
 
 * **Activity 1:** Apply the distinct command to determine the individual department ids from the employees table. This should give a straight listing of only the departments id’s without duplication.
 [Code](</Filtering Data Part 01/filteringDataPart01.sql>) and [Results](</Filtering Data Part 01/Filtering Data Part 01 - Activity 1.pdf>)
