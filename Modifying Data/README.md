@@ -1,5 +1,5 @@
 # 10. Modifying Data
-* **Activity 1:** Create a table called '[module](/Databases/module.sql)'. that has the following attributes – moduleno, modulename, moduleunitsize, hoursfordelivery.
+* **Activity 1:** Create a table called 'module' that has the following attributes – moduleno, modulename, moduleunitsize, hoursfordelivery.
 
 * **Activity 2:** Enter the records for the other members of the Flintstone family: Wilma, Pebbles and Dino.
 'EC007','Flintstone','Fred', 'flintstone@bt.com', 1234567
