@@ -2,6 +2,7 @@
 Using the database called '[hr](/Databases/hr.sql)'
 
 * **Activity 1:** Using locations select * attributes and display. Then use Select for three attributes including the primary key and display. Make sure to distinguish where the primary key is coming from in terms of the table name. e.g. tablename. attribute
+
 [Code](</Querying Data AND Sorting Data/queryingDataAndSortingData.sql>) and [Results](</Querying Data AND Sorting Data/Querying Data AND Sorting Data - Activity 1.pdf>)
 
 * **Activity 2:** Create an sql that will show the employee_id, last name and their salary. Then use an alias for the table name – simply use the letter e to reference it. Instead of salary use the alias ‘Monthly Salary’ for the last attribute.
