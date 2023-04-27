@@ -2,7 +2,6 @@
 Using the database called '[hr](/Databases/hr.sql)'
 
 * **Activity 1:** Using locations select * attributes and display. Then use Select for three attributes including the primary key and display. Make sure to distinguish where the primary key is coming from in terms of the table name. e.g. tablename, attribute.
-
 [Code](</Querying Data AND Sorting Data/queryingDataAndSortingData.sql>) and [Results](</Querying Data AND Sorting Data/Querying Data AND Sorting Data - Activity 1.pdf>)
 
 * **Activity 2:** Create an sql that will show the employee_id, last name and their salary. Then use an alias for the table name – simply use the letter e to reference it. Instead of salary use the alias ‘Monthly Salary’ for the last attribute.
@@ -22,5 +21,4 @@ Sort according to two attributes, when not specifically mentioned next to the at
 [Code](</Querying Data AND Sorting Data/queryingDataAndSortingData.sql>) and [Results](</Querying Data AND Sorting Data/Querying Data AND Sorting Data - Activity 3.pdf>)
 
 * **Activity 4:** Complete an sql that will display a person’s lastname, email, salary and have the sort done according to the person salary in descending order (so highest will be at the top), if two people have the same salary then the secondary sort should be lastname in ascending order.
-
 [Code](</Querying Data AND Sorting Data/queryingDataAndSortingData.sql>) and [Results](</Querying Data AND Sorting Data/Querying Data AND Sorting Data - Activity 4.pdf>)
