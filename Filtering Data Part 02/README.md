@@ -1,5 +1,5 @@
 # 4. Filtering Data Part 02
-Using the database called '[hr](/Databases/hr.sql)'
+Using the database called '[hr](/Databases/hr.sql)'.
 
 * **Activity 1:** Write the sql code that will determine anyone whose name begins with ‘P’ and whose salary is below 8000.
 [Code](</Filtering Data Part 02/Filtering Data Part 02.sql>) and [Results](</Filtering Data Part 02/Filtering Data Part 02 - Activity 1.pdf>)
